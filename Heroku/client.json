@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yashbot-weia",
+  "private_key_id": "9ae0bbff4a93b64bfefc8d8a4a54dfca694aaeb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrlAcMVtcbX99I\nDx0q9r3PG63y7JP/wlYoUN5GZDsIsoddkeYWanCvmy+KScyt7iY9py/9d+ln3Ut9\nL0SrNocNHIvcNBOZ9lU3rmQF0iGo6mJFfLafBpuS3QGVLoF28Ynb7quN0GlBAOSB\nvb7sGDsHSFnIImxxcZHNSa8BeKplGoT0k9DW0o6xgwoymJiIsD2vr5f44gdCYqlC\nZWkgHTVc8KXgksBYhW6jhub76oIMlXoxlUeALTZJs28fPnSo0+I+jKauAcBhRfzH\nl+YMuQaoJWIUw4nYHRsJbfZHXcZQrTC2RqOJCdtMiBanX0V/IOu9jbbI4cvY9dXq\nTmTJVnVlAgMBAAECggEAJhza5vMIU8ibWtCeqEtIdO+/V1GVe4/R3yE9irHbii5M\nEu0kiNCqiNuGNyf3CyC2RmYzqxBenMeDrAJatNSHMdKoP6kivIXDPrvidIeNmg28\neBaAo3kOiFRG9How4Hi9aIkO+xCzPLED0U0SkrO8Mv0vkl0RLS7u1gTa1s8UvKHG\nlQSThLItY1R6ns9ovdEFP6Str86K1BvOnocMa8HlsBEZTA7/KgH5Q29pdgbPVz6V\nWty20KwZ8H/uQVPmsbab6M6kmjv3QuwlEH/6dg+LfrX/uDQDSvET/gaW5gWaSk0P\nQJlZrN9LtWoC0QaD+2JyTL4AWjf/ECHowVxONtRjSQKBgQDoAZchB/2M0B8HHEC4\nCY+tYUIUwGtVNLY+1uMKovzGsvxJAXwoD169CtGTHC3lwwuXxciJAOA5tPlrDCP7\n9tGws4zCic94gy9cwRNkJFMcgPTwxxPg8uOJR953CEt9FWwYp+rdyTPkWcZz9TxW\nlZXLEYOFwzupdaJWjHfPOt+DfQKBgQC9Upg7JLOD1Z6oy7Pghx1zMhhTCrz/nmjz\nYnsRWcDEBdPS6c0dqP36uLStxlAL7g/j5jIMiaarOvhQyQTVI21nTnz68DNKvYJY\n890JPgiAXp4gb0YqpeuwuwEVzc9Y3uiYiOGQayRTtMcyecUvz920RQDSQ90J+SFI\n/1NqVZIOCQKBgH4+J0s8+tW9hbSrxfeelETGsFt0XLMvjJ9i9IYcLCm+yRK8sR9n\nRajeEy3WXo8wc8VxRO5vwJMGC9YY9BettWpOOSC+NlugHox9Lx0Fuwe+kAnYedOk\ntvVDWyUwKUt19azw6hcm3Yq64wbEAcIngSvPat7FXliWfvBTXPoxUeBNAoGAHIGv\nQliIXzVvKmNhtlEh8hJ87yQSyTqE+wC9HyOwjtOBzaQ+qlSjyXi+W9wceW9jHSGw\nL4saeXXrpd5ex+kJtCBxWSeJ0ZsvYU123slkZk/Y53FZ01ogXwAJbcsLiYom47DY\npfI8Cg6SX9tOAaD+9QHe2co2IiZNCLzJRp2T3GECgYAr32+9xUsYXseZH4HxXtdj\n3NXoh31Hu8j1AJoT3yVKki60LQ0OYUYZhq2sIslZPCfIdCwqBYAUWvKuInAStQq6\n6YjUK++v6A0Akz6CgmuGYr0E6MJZpwYX6xKH4akxa5bf+t3typaT+rtQqRSE+Cc0\nDasx6RqCKH+AFp52v9ZvGg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "newsbot-yash@yashbot-weia.iam.gserviceaccount.com",
+  "client_id": "110815494823477808348",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newsbot-yash%40yashbot-weia.iam.gserviceaccount.com"
+}
